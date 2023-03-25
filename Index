@@ -1,3 +1,7 @@
 <doctypee!html>
 <html>
-<head><style> .bpodcast1
+<head><style> .bgoogle1 </style></head>
+<body>
+<button class="bgoogle1"><a href="www.google.com">To Google</a></button>
+</body>
+</html>
